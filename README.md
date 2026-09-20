@@ -49,8 +49,8 @@ The parent sends data to a child using props. For child → parent communication
 
 ## Project Links
 
-- GitHub Repository:
-- Live Site: 
+- GitHub Repository:https://github.com/alrayat/dev_stack
+- Live Site: https://dev-stack-pi-wheat.vercel.app/
 
 ## Project Purpose
 
